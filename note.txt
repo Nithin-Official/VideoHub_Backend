@@ -1,0 +1,37 @@
+Json Server Creation In Node
+............................
+
+- node - npm init
+- install json server - npm i json-server 
+
+
+nodemon - provide automatic recompilation - npm i nodemon
+
+middlewares
+...........
+middlewares have the ability to control all server request in a server
+-if we apply middlewares in server , the middlewares will work before the request
+
+
+Cors - cross origine resource sharing
+.....................................
+
+connect front-end with node server - npm i Cors
+
+
+state lifting
+..............
+
+home-state name updatefn
+add -updatefn
+view -name
+
+
+
+dragging events
+...............
+
+onDrag start|
+onDrag over | - Events with target Value
+on Drop     |
+
